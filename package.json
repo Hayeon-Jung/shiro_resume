@@ -2,7 +2,7 @@
   "name": "shiro_resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Hayeon-Jung.github.io/",
+  "homepage": "https://Hayeon-Jung.github.io/shiro_resume",
   "scripts": {
     "dev": "next dev",
     "build": "next build && next export",
